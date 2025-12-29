@@ -83,10 +83,4 @@ python main.py
 ## 📚 References
 1.  Detrano, R., et al. (1989). *International application of a new probability algorithm for the diagnosis of coronary artery disease.* American Journal of Cardiology.
 2.  UCI Machine Learning Repository: Heart Disease Data Set.
-3.  Scikit-Learn Official Documentation: [https://scikit-learn.org/](https://scikit-learn.org/)
-
-
-### نحوه استفاده:
-1.  این متن را در فایلی به نام `README.md` ذخیره کنید.
-2.  این فایل را به همراه فایل کد `main.py` و **هر سه تصویر (`.png`)** که کد تولید کرده، در مخزن گیت‌هاب خود آپلود کنید.
-3.  گیت‌هاب به صورت خودکار تصاویر را در فایل README نمایش خواهد داد و یک صفحه بسیار حرفه‌ای و کامل خواهید داشت.
+3.  Scikit-Learn Official Documentation: [https://scikit-learn.org/](https://scikit-learn.org/).
